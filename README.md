@@ -1,6 +1,7 @@
 # HugeQuiz Text Entry Tool
 
 This project is an automated Selenium script that interacts with hugequiz.com by logging into the site and submitting city names or whatever is inputted in response to a quiz challenge. The script mimics human-like behavior, including handling the login process and inputting city names into the quiz form.
+
 **Note:** This script is not intended for cheating or bypassing the challenge. It is designed to assist with entering city names and typing responses quickly, especially for hard quizzes. It also helps with easily going back to where you left off in the quiz.
 
 
