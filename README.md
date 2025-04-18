@@ -50,18 +50,6 @@ To start the automation, simply run the script using Python:
 ```bash
 python quiz_bot.py
 ```
-
-### 6. Optional: Headless Mode
-If you prefer not to see the browser window, you can run the script in headless mode by adding the following options to the WebDriver:
-
-```python
-from selenium.webdriver.firefox.options import Options
-
-options = Options()
-options.headless = True
-driver = webdriver.Firefox(options=options)
-```
-
 ## How It Works
 1. The script first logs into the quiz site using the provided credentials
 2. After logging in, it navigates to the quiz page
