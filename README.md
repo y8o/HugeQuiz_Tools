@@ -37,9 +37,11 @@ Open the script (`quiz_bot.py`) and replace the following placeholders with your
 ### 4. Add City List
 You can customize the list of cities in the `city_list` variable with the cities you want to use for the quiz.
 An example is shown below:
+```python
 city_list = [
     "London","Paris","Amsterdam","Hamburg"
 ]
+
 **Note:** This is what is being inputted into the quiz, if the quiz requires a period after every name then add periods, or if it needs the country, like 'losangelesus' for Los Angeles in the US.
 
 ### 5. Run the Script
