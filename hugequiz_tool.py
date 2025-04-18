@@ -7,7 +7,7 @@ import time
 # Placeholder for login credentials and URLs
 USERNAME = 'your_username_here'
 PASSWORD = 'your_password_here'
-LOGIN_URL = 'your_login_page_url_here'
+LOGIN_URL = 'https://hugequiz.com/wp-login.php'
 QUIZ_URL = 'your_quiz_page_url_here'
 
 # Initialize Firefox with Selenium
