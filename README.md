@@ -49,7 +49,7 @@ city_list = [
 To start the automation, simply run the script using Python:
 
 ```bash
-python quiz_bot.py
+python hugequiz_tool.py
 ```
 ## How It Works
 1. The script first logs into the quiz site using the provided credentials
